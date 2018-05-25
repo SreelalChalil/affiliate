@@ -52,7 +52,6 @@
                                 <i class="fas fa-tachometer-alt"></i>Dashboard</a>
                         </li>
                         
-
                         <li class="has-sub">
                             <a class="js-arrow" href="#">
                                <i class="fab fa-bitbucket"></i></i>Catalogue</a>
@@ -139,16 +138,16 @@
                                <i class="fas fa-chart-line"></i>Analytics</a>
                             <ul class="list-unstyled navbar__sub-list js-sub-list">
                                 <li>
-                                    <a href="index.html">Dashboard 1</a>
+                                    <a href="#">Visitors</a>
                                 </li>
                                 <li>
-                                    <a href="index2.html">Dashboard 2</a>
+                                    <a href="#">Products</a>
                                 </li>
                                 <li>
-                                    <a href="index3.html">Dashboard 3</a>
+                                    <a href="#">Google Analytics</a>
                                 </li>
                                 <li>
-                                    <a href="index4.html">Dashboard 4</a>
+                                    <a href="#">Dashboard 4</a>
                                 </li>
                             </ul>
                         </li>
