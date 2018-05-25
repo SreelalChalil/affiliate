@@ -41,7 +41,7 @@
         <aside class="menu-sidebar d-none d-lg-block">
             <div class="logo">
                 <a href="#">
-                    <i class="fas fa-asterisk"></i> &nbsp <img src="images/icon/logo1.png" alt="Dashboard" />
+                <i class="zmdi zmdi-shopping-cart"></i> &nbsp <img src="images/icon/logo1.png" alt="Dashboard" />
                 </a>
             </div>
             <div class="menu-sidebar__content js-scrollbar1">
@@ -175,7 +175,7 @@
                         </li>
                         <li class="has-sub">
                             <a class="js-arrow" href="#">
-                                <i class="fas fa-copy"></i>Pages</a>
+                                <i class="fas fa-copy"></i>LEARN Affiliate Marketing</a>
                             <ul class="list-unstyled navbar__sub-list js-sub-list">
                                 <li>
                                     <a href="login.html">Login</a>
@@ -190,7 +190,7 @@
                         </li>
                         <li class="has-sub">
                             <a class="js-arrow" href="#">
-                                <i class="fas fa-desktop"></i>UI Elements</a>
+                                <i class="fas fa-desktop"></i>Help and Support</a>
                             <ul class="list-unstyled navbar__sub-list js-sub-list">
                                 <li>
                                     <a href="button.html">Button</a>
