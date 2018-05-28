@@ -76,7 +76,7 @@
                                 <i class="fas fa-cart-plus"></i></i>Products</a>
                             <ul class="list-unstyled navbar__sub-list js-sub-list">
                                 <li>
-                                    <a href="#">Add Product</a>
+                                    <a href="<?php echo base_url("products"); ?>">Add Product</a>
                                 </li>
                                 <li>
                                     <a href="#">Manage Products</a>
