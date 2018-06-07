@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Dashboard extends CI_Controller {
+<<<<<<< HEAD
 	// public function __construct() {
 		
 	// 	parent::__construct();
@@ -48,6 +49,13 @@ class Dashboard extends CI_Controller {
 
 		}
 		
+=======
+
+	
+	public function index()
+	{
+		$this->load->view('login');
+>>>>>>> bbef8c300a8b01232ce6a40cf4d1036df1ca71aa
 		
 	}
 	// public function index()
@@ -57,4 +65,7 @@ class Dashboard extends CI_Controller {
 	// 	$this->load->view('templates/footer');
 	// }
 }
+<<<<<<< HEAD
 }
+=======
+>>>>>>> bbef8c300a8b01232ce6a40cf4d1036df1ca71aa
